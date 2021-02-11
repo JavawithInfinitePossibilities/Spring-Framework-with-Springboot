@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Domain-Object/src/main/java"/>
+	<classpathentry kind="src" path="Section-10-Standalone-Collections/src/main/java"/>
+	<classpathentry kind="src" path="Section-11-Stereotype-Annotations/src/main/java"/>
+	<classpathentry kind="src" path="Section-11-Stereotype-Annotations/src/test/java"/>
+	<classpathentry kind="src" path="Section-12-Spring-Expression-Language/src/main/java"/>
+	<classpathentry kind="src" path="Section-12-Spring-Expression-Language/src/test/java"/>
+	<classpathentry kind="src" path="Section-13-Injecting-Interfaces/src/main/java"/>
+	<classpathentry kind="src" path="Section-13-Injecting-Interfaces/src/test/java"/>
+	<classpathentry kind="src" path="Section-14-Spring-JDBC/src/main/java"/>
+	<classpathentry kind="src" path="Section-14-Spring-JDBC/src/test/java"/>
+	<classpathentry kind="src" path="Section-15-Spring-ORM/src/main/java"/>
+	<classpathentry kind="src" path="Section-15-Spring-ORM/src/test/java"/>
+	<classpathentry kind="src" path="Section-3-Spring-Core-Concepts/src/main/java"/>
+	<classpathentry kind="src" path="Section-3-Spring-Core-Concepts/src/test/java"/>
+	<classpathentry kind="src" path="Section-4-Setter-Injection/src/main/java"/>
+	<classpathentry kind="src" path="Section-4-Setter-Injection/src/test/java"/>
+	<classpathentry kind="src" path="Section-5-Life-Cycle-Methods/src/main/java"/>
+	<classpathentry kind="src" path="Section-5-Life-Cycle-Methods/src/test/java"/>
+	<classpathentry kind="src" path="Section-6-Dependency-Check-Inner-beans-and-Scopes/src/main/java"/>
+	<classpathentry kind="src" path="Section-6-Dependency-Check-Inner-beans-and-Scopes/src/test/java"/>
+	<classpathentry kind="src" path="Section-7-Constructor-Injection/src/main/java"/>
+	<classpathentry kind="src" path="Section-7-Constructor-Injection/src/test/java"/>
+	<classpathentry kind="src" path="Section-8-Using-Properties/src/main/java"/>
+	<classpathentry kind="src" path="Section-8-Using-Properties/src/test/java"/>
+	<classpathentry kind="src" path="Section-9-Auto-Wiring/src/main/java"/>
+	<classpathentry kind="src" path="Section-9-Auto-Wiring/src/test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-12">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

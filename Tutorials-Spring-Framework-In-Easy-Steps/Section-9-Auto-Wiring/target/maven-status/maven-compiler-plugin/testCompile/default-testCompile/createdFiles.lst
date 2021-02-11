@@ -1,0 +1,6 @@
+com\tutorials\spring\test\autowire\xml\bytype\TestAutowireXMLByType.class
+com\tutorials\spring\test\autowire\xml\byconstructor\TestAutowireXMLByConstructor.class
+com\tutorials\spring\test\autowire\xml\bytype\ambiguity\TestAutowireXMLByTypeAmbiguity.class
+com\tutorials\spring\test\autowire\xml\byName\TestAutowireXMLByName.class
+com\tutorials\spring\test\autowire\annotation\bysetter\TestAutowireByAnnotationSetter.class
+com\tutorials\spring\test\autowire\annotation\byconstructor\TestAutowireByAnnotationConstructor.class

@@ -1,0 +1,4 @@
+com\tutorials\spring\main\Section26SpringDataJPAusingSpringBootApplication.class
+com\tutorials\spring\main\entities\Product.class
+com\tutorials\spring\main\repositories\product\IProductRepository.class
+com\tutorials\spring\main\controller\product\ProductRESTController.class
