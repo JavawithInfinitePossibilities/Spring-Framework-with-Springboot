@@ -1,0 +1,6 @@
+D:\Spring-Multimodule-workspace\Tutorials-Spring-Framework-In-Easy-Steps\Section-9-Auto-Wiring\src\test\java\com\tutorials\spring\test\autowire\xml\byconstructor\TestAutowireXMLByConstructor.java
+D:\Spring-Multimodule-workspace\Tutorials-Spring-Framework-In-Easy-Steps\Section-9-Auto-Wiring\src\test\java\com\tutorials\spring\test\autowire\annotation\byconstructor\TestAutowireByAnnotationConstructor.java
+D:\Spring-Multimodule-workspace\Tutorials-Spring-Framework-In-Easy-Steps\Section-9-Auto-Wiring\src\test\java\com\tutorials\spring\test\autowire\xml\byName\TestAutowireXMLByName.java
+D:\Spring-Multimodule-workspace\Tutorials-Spring-Framework-In-Easy-Steps\Section-9-Auto-Wiring\src\test\java\com\tutorials\spring\test\autowire\xml\bytype\TestAutowireXMLByType.java
+D:\Spring-Multimodule-workspace\Tutorials-Spring-Framework-In-Easy-Steps\Section-9-Auto-Wiring\src\test\java\com\tutorials\spring\test\autowire\annotation\bysetter\TestAutowireByAnnotationSetter.java
+D:\Spring-Multimodule-workspace\Tutorials-Spring-Framework-In-Easy-Steps\Section-9-Auto-Wiring\src\test\java\com\tutorials\spring\test\autowire\xml\bytype\ambiguity\TestAutowireXMLByTypeAmbiguity.java

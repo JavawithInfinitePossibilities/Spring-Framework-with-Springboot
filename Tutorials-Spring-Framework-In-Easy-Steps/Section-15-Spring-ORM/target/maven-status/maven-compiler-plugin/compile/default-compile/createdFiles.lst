@@ -1,0 +1,3 @@
+com\tutorials\spring\main\productDAO\ProductDaoImpl.class
+com\tutorials\spring\main\entity\Product.class
+com\tutorials\spring\main\productDAO\IProductDAO.class

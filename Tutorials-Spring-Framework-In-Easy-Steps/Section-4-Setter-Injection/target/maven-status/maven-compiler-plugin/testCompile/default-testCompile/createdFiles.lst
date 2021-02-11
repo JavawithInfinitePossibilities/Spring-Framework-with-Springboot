@@ -1,0 +1,7 @@
+com\tutorials\spring\test\collection\Set\TestSetInConfig.class
+com\tutorials\spring\test\usingPNamespace\TestPnamespace.class
+com\tutorials\spring\test\reftype\TestReftype.class
+com\tutorials\spring\test\collection\List\TestListInConfig.class
+com\tutorials\spring\test\collection\properties\TestPropetiesInConfig.class
+com\tutorials\spring\test\usingattribute\TestSection4SetterInjectionUsingattribute.class
+com\tutorials\spring\test\collection\Map\TestMapInConfig.class

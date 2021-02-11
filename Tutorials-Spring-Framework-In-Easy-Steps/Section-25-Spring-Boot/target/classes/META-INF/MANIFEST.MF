@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 12
+Implementation-Title: Section-25-Spring-Boot
+Implementation-Version: 2.4.2
+Main-Class: com.tutorials.spring.main.Section25SpringBootApplication
+Created-By: Maven Integration for Eclipse
+

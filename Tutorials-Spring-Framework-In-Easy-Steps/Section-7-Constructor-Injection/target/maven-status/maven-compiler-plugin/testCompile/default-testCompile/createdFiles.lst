@@ -1,0 +1,6 @@
+com\tutorials\spring\test\collection\List\TestListInConfig.class
+com\tutorials\spring\test\collection\Set\TestSetInConfig.class
+com\tutorials\spring\test\usingtagandattribute\TestConstractorInjectionUsingTagAndAttribute.class
+com\tutorials\spring\test\usingCnamespace\TestConstractorInjectionUsingCNameSpace.class
+com\tutorials\spring\test\usingreftypeambiguity\TestUsingReftypeAmbiguity.class
+com\tutorials\spring\test\collection\map\TestMapInConfig.class
