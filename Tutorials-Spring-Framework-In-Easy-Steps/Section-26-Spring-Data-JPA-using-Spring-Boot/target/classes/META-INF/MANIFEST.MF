@@ -1,8 +1,0 @@
-Manifest-Version: 1.0
-Build-Jdk-Spec: 12
-Implementation-Title: Section-26-Spring-Data-JPA-using-Spring-Boot
-Implementation-Version: 2.4.2
-Main-Class: com.tutorials.spring.main.Section26SpringDataJPAusingSpringB
- ootApplication
-Created-By: Maven Integration for Eclipse
-

@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.tutorials.spring.test.Section26SpringDataJPAusingSpringBootApplicationTest
--------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 2, Time elapsed: 13.189 s - in com.tutorials.spring.test.Section26SpringDataJPAusingSpringBootApplicationTest
